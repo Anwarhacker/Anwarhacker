@@ -51,10 +51,10 @@
 
 | Repository | Description | Tech |
 |------------|-------------|------|
-| [**GRG**](https://github.com/Anwarhacker/GRG) | TypeScript-based project | TypeScript |
-| [**register**](https://github.com/Anwarhacker/register) | Registration method implementation | JavaScript |
-| [**full_crud**](https://github.com/Anwarhacker/full_crud) | Full CRUD operations app | JavaScript |
-| [**auth**](https://github.com/Anwarhacker/auth) | Authentication setup | JavaScript |
+| [**GRG**](https://github.com/Anwarhacker/GRG) | A GitHub README Generator built with Next.js, TypeScript, and Firebase. | TypeScript |
+| [**register**](https://github.com/Anwarhacker/register) | A full-stack user registration example with a separate frontend and backend. | JavaScript |
+| [**full_crud**](https://github.com/Anwarhacker/full_crud) | A complete demonstration of a full-stack application with Create, Read, Update, and Delete (CRUD) operations. | JavaScript |
+| [**auth**](https://github.com/Anwarhacker/auth) | A React application demonstrating user authentication, including email and SMS verification, built with Vite. | JavaScript |
 
 ---
 
