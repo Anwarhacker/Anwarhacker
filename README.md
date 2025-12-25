@@ -1,30 +1,33 @@
 <!-- Banner or Introduction -->
 <h1 align="center">Hi 👋, I'm Anwar Patel</h1>
-<h3 align="center">🚀 MERN Stack Developer | Full Stack Enthusiast</h3>
+<h3 align="center">
+🚀 MERN Stack Developer | Full Stack Engineer | DevOps (Intermediate)
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Developer-Full%20Stack-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/MERN-Full%20Stack-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20|%20K8s%20|%20CI/CD-blue?style=flat-square" />
   <img src="https://img.shields.io/github/followers/Anwarhacker?label=Followers&style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Anwarhacker&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Anwarhacker&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **MERN stack projects**
-- 🌱 I’m exploring **Next.js, Expo, and Advanced Authentication**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, and APIs**
+- 🔭 Working on **MERN Stack & DevOps-based projects**
+- 🌱 Exploring **Cloud-native apps, CI/CD & GitOps**
+- ⚙️ Hands-on with **Docker, Kubernetes, Jenkins & Argo CD**
+- 💬 Ask me about **React, Node.js, MongoDB, CI/CD, Containers**
 - 📍 Based in **Karnataka, India**
-- ⚡ Fun fact: _I love turning coffee into scalable code ☕_
+- ⚡ Fun fact: _I automate deployments like I automate coffee refills ☕_
 
 ---
-
 
 ## 🌐 My Websites  
 
 <p align="center">
-  <a href="[https://github-repo-generator.vercel.app/}" target="_blank">
+  <a href="https://github-repo-generator.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/GEC%20HUB-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://anwarportfolio.vercel.app" target="_blank">
@@ -39,7 +42,7 @@
 
 ## 🛠 Tech Stack
 
-**Frontend:**
+### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -47,14 +50,22 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
-**Backend:**
+### 🧠 Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-**Tools & Others:**
+### ⚙️ DevOps & Cloud (Intermediate)
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+</p>
+
+### 🧰 Tools & Others
 <p>
   <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -67,19 +78,20 @@
 ## 📌 Featured Projects
 
 | Repository | Description | Tech |
-|------------|-------------|------|
-| [**GRG**](https://github.com/Anwarhacker/GRG) | A GitHub README Generator built with Next.js, TypeScript, and Firebase. | TypeScript |
-| [**register**](https://github.com/Anwarhacker/register) | A full-stack user registration example with a separate frontend and backend. | JavaScript |
-| [**full_crud**](https://github.com/Anwarhacker/full_crud) | A complete demonstration of a full-stack application with Create, Read, Update, and Delete (CRUD) operations. | JavaScript |
-| [**auth**](https://github.com/Anwarhacker/auth) | A React application demonstrating user authentication, including email and SMS verification, built with Vite. | JavaScript |
+|------------|------------|------|
+| **GRG** | GitHub README Generator with CI-ready structure | Next.js |
+| **register** | Full-stack app with frontend & backend separation | MERN |
+| **full_crud** | Complete CRUD app with REST APIs | MERN |
+| **auth** | Authentication system with email & SMS verification | React |
+| **DevOps Projects** | Dockerized apps, Kubernetes deployments, Jenkins pipelines & Argo CD GitOps | DevOps |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anwarhacker&show_icons=true&theme=tokyonight" alt="Anwar's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anwarhacker&theme=tokyonight" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anwarhacker&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anwarhacker&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -87,23 +99,17 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/Anwarhacker" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Anwarhacker">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/anwarpatel42" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://linkedin.com/in/anwarpatel">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://facebook.com/anwarpatel" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:patelanwar647@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/anwarpatel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:patelanwar647@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-💡 _"Code. Learn. Build. Repeat."_
+💡 _"Build once. Deploy everywhere. Automate everything."_ 🚀
